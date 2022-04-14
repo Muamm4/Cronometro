@@ -4,7 +4,7 @@ INDEX
 - [2. Informções do projeto](#2-informções-do-projeto)
   - [2.1. Passos a serem Incrementados](#21-passos-a-serem-incrementados)
 
-# 1. Projeto Cronometro
+# 1. Projeto Cronometro 
 
 -Projeto afim de estudar o inicio dos camandos com o React.JS
 
